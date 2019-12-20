@@ -1,0 +1,85 @@
+{
+    "name": "Vayant",
+    "description": "PROS Revenue & Profit Optimization deliver the perfect blend of simplicity and data science to improve revenue and profit performance. Get a demo today!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1369-vayant.jpg",
+    "tags": [
+        "flights",
+        "have api",
+        "notifications"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/vayant\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Vayant",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1369-vayant.jpg",
+            "humanURL": "http:\/\/www.vayant.com\/solutions\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/vayant-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.vayant.com\/solutions\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/pros-holdings"
+        },
+        {
+            "type": "Email",
+            "url": "alira@pros.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@pros.com"
+        },
+        {
+            "type": "Email",
+            "url": "infoemea@pros.com"
+        },
+        {
+            "type": "Email",
+            "url": "infoapac@pros.com"
+        },
+        {
+            "type": "Email",
+            "url": "corpcomm@pros.com"
+        },
+        {
+            "type": "Email",
+            "url": "ir@pros.com"
+        },
+        {
+            "type": "Email",
+            "url": "ydonaldson@pros.com"
+        },
+        {
+            "type": "Email",
+            "url": "hr@pros.com"
+        },
+        {
+            "type": "Email",
+            "url": "webmaster@pros.com"
+        },
+        {
+            "type": "Email",
+            "url": "talentacquisition@pros.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/PROS_Inc"
+        }
+    ]
+}
